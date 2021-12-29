@@ -1,4 +1,4 @@
-# React app using API
+# React app using API- to check weather
 
 
 # Getting Started with Create React App
